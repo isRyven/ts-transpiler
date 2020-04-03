@@ -1,0 +1,6 @@
+{
+	"version": "0.1.0",
+	"name": "ts-transpiler",
+	"description": "A lightweight standalone TypeScript transpiler.",
+	"index": "index.js"
+}
